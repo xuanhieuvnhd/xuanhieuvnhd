@@ -9,6 +9,9 @@
 
 - 🤝 Dự án Java DispatcherServlet, My SQL [Website bán quần áo](https://github.com/xuanhieuvnhd/case-study-md3)
 
+- 🤝 Dự án Spring Boot, JWT Security, MySQL, RESTFUL API, JQuery, AJAX, Bootstrap, CSS, HTML [Quản lý trung tâm dạy học](https://github.com/xuanhieuvnhd/CaseStudy-MD4)
+- 🤝 Dự án Spring Boot, JWT Security, MySQL, RESTFUL API, Angular, Bootstrap, CSS, HTML [Website nghe nhạc trực tuyến](https://github.com/xuanhieuvnhd/CaseMD6)
+
 - 📝 Tôi thường xuyên viết bài trên [https://www.facebook.com/hoanghieuvnhd/](https://www.facebook.com/hoanghieuvnhd/)
 
 - 📫 Liên hệ với tôi **xuanhieuvn@gmail.com**
